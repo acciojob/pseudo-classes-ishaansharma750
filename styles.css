@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+body{
+	background-color:skyblue;
+}
+.one{
+	background-color:black;
+	color:white;
+}
+.four{
+	color:red;
+}
+.l-1{
+	background-color:white;
+	padding:15px;
+}
+.l-2{
+	background-color:gray;
+	padding:5px;
+}
+.l-3{
+	background-color:pink;
+	padding:5px;
+}
+.l-4{
+	background-color:grey;
+	padding:5px;
+}
+.l-5{
+	background-color:white;
+	padding:15px;
+}
